@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/e-commerce-medicine/static/css/main.08ea9034.css",
+    "main.js": "/e-commerce-medicine/static/js/main.aa914d9c.js",
+    "static/js/787.cf0e93c4.chunk.js": "/e-commerce-medicine/static/js/787.cf0e93c4.chunk.js",
+    "index.html": "/e-commerce-medicine/index.html",
+    "main.08ea9034.css.map": "/e-commerce-medicine/static/css/main.08ea9034.css.map",
+    "main.aa914d9c.js.map": "/e-commerce-medicine/static/js/main.aa914d9c.js.map",
+    "787.cf0e93c4.chunk.js.map": "/e-commerce-medicine/static/js/787.cf0e93c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08ea9034.css",
+    "static/js/main.aa914d9c.js"
+  ]
+}
